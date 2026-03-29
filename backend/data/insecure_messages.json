@@ -1,0 +1,32 @@
+[
+  {
+    "sender": "Denzil",
+    "timestamp": "2026-03-29T13:54:05.820Z",
+    "message": "hello "
+  },
+  {
+    "sender": "Denzil",
+    "timestamp": "2026-03-29T14:16:52.959Z",
+    "message": "this is a sample unencrypted message"
+  },
+  {
+    "sender": "Denzil",
+    "timestamp": "2026-03-29T14:24:53.701Z",
+    "message": "unsecure line"
+  },
+  {
+    "sender": "Balls",
+    "timestamp": "2026-03-29T15:16:28.214Z",
+    "message": "hello balu"
+  },
+  {
+    "sender": "Balls",
+    "timestamp": "2026-03-29T15:21:21.395Z",
+    "message": "testing 123"
+  },
+  {
+    "sender": "Balls",
+    "timestamp": "2026-03-29T15:24:10.392Z",
+    "message": "waaaaaaaaaaaaaaaaaaaaaaaah"
+  }
+]
